@@ -1,2 +1,2 @@
 # web2_css
-v1
+css_basic
